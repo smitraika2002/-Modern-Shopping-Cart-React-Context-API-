@@ -26,18 +26,21 @@ A simple and functional shopping cart application built using React and Context 
 ---
 
 ## 📂 Project Structure
+
+```
 src/
+│
 ├── components/
-│ ├── Navbar.jsx
-│ ├── ProductList.jsx
-│ ├── Cart.jsx
+│   ├── Navbar.jsx
+│   ├── ProductList.jsx
+│   ├── Cart.jsx
+│
 ├── context/
-│ └── CartContext.js
+│   └── CartContext.js
+│
 ├── App.jsx
 ├── App.css
-
-
----
+```
 
 ## 💡 What I Learned
 
